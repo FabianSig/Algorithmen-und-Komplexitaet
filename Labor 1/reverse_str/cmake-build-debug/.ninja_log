@@ -1,0 +1,5 @@
+# ninja log v5
+2	225	7059499930210896	CMakeFiles/reverse_str.dir/main.c.obj	db44a792fe35a2be
+226	551	7059499933430875	reverse_str.exe	6acb0bb2ece8eb30
+2	217	7059501015774431	CMakeFiles/reverse_str.dir/main.c.obj	ecc47e6383ada5e5
+218	576	7059501019304429	reverse_str.exe	6acb0bb2ece8eb30
